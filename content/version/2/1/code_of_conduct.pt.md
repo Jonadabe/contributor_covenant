@@ -1,41 +1,41 @@
 
-# Código de Conduta de Colaboração
+# Convénio do Código de Conduta de Colaborador
 
-## Nosso compromisso
+## O nosso compromisso
 
-Como participantes, colaboradoras e líderes, nós nos comprometemos a fazer com
+Como participantes, colaboradores e líderes, nós nos comprometemos a fazer com
 que a participação na nossa comunidade seja uma experiência livre de assédio
-para todas as pessoas, independentemente de idade, tamanho do corpo, deficiência
+para todas as pessoas, independentemente de idade, tamanho físico, deficiência
 aparente ou não aparente, etnia, características sexuais, identidade ou
 expressão de género, nível de experiência, educação, situação sócio-económica,
 nacionalidade, aparência pessoal, raça, casta, religião ou identidade e
 orientação sexuais.
 
-Comprometemo-nos a agir e interagir de maneiras que contribuam para uma
+Comprometemo-nos a agir e interagir de formas que contribuam para uma
 comunidade aberta, acolhedora, diversificada, inclusiva e saudável.
 
-## Nossos padrões
+## Os nossos padrões
 
 Exemplos de comportamentos que contribuem para criar um ambiente positivo para a
 nossa comunidade incluem:
 
 * Demonstrar empatia e bondade com as outras pessoas
-* Respeitar opiniões, pontos de vista e experiências contrárias
-* Dar e receber feedbacks construtivos de maneira respeitosa
+* Respeitar opiniões, pontos de vista e experiências diferenciadas
+* Dar e aceitar comentários construtivos de forma respeitosa
 * Assumir responsabilidade, pedir desculpa às pessoas afetadas por nossos erros
-  e aprender com a experiência
-* Focar no que é melhor não só para nós individualmente, mas para a comunidade
-  em geral
+  e aprender com essa experiência
+* Focar-se no que é melhor, não apenas para nós como indivíduos, como para a 
+  comunidade em geral
 
 Exemplos de comportamentos inaceitáveis incluem:
 
 * Uso de linguagem ou imagens sexualizadas, bem como o assédio sexual ou de
   qualquer natureza
-* Comentários insultuosos/depreciativos e ataques pessoais ou políticos
-  (Trolling)
+* Incomodar deliberadamente com comentários insultuosos, depreciativos e ataques
+  pessoais ou políticos (Trolling)
 * Assédio público ou privado
 * Publicar informações particulares de outras pessoas, como um endereço de
-  e-mail ou endereço físico, sem a permissão explícita dos mesmos
+  e-mail ou endereço físico, sem a permissão explícita dos envolvidos
 * Outras condutas que são normalmente consideradas inapropriadas num ambiente
   profissional
 
@@ -65,9 +65,8 @@ ou offline.
 Ocorrências de comportamentos abusivos, de assédio ou que sejam inaceitáveis por
 qualquer outro motivo poderão ser reportadas para a liderança da comunidade,
 responsável pela aplicação, através do contacto de endereço de correio
-eletrónico 
-[utilizador\@dominio.com](mailto:utilizador@dominio.com?subject=Código+de+conduta). Todas
-as reclamações serão revisadas e investigadas imediatamente e de maneira justa.
+eletrónico [INSIRA AQUI O MÉTODO DE CONTACTO]. Todas as reclamações serão
+revisadas e investigadas imediatamente e de maneira justa.
 
 A liderança da comunidade tem a obrigação de respeitar a privacidade e a
 segurança de quem reportar qualquer incidente.
